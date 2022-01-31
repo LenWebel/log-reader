@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj": {}
+    "/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj": {}
   },
   "projects": {
-    "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/Azenix.LogReader.csproj": {
+    "/Users/lenwebel/work/log-reader/Azenix.LogReader/Azenix.LogReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/Azenix.LogReader.csproj",
+        "projectUniqueName": "/Users/lenwebel/work/log-reader/Azenix.LogReader/Azenix.LogReader.csproj",
         "projectName": "Azenix.LogReader",
-        "projectPath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/Azenix.LogReader.csproj",
+        "projectPath": "/Users/lenwebel/work/log-reader/Azenix.LogReader/Azenix.LogReader.csproj",
         "packagesPath": "/Users/lenwebel/.nuget/packages/",
-        "outputPath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/obj/",
+        "outputPath": "/Users/lenwebel/work/log-reader/Azenix.LogReader/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj": {
+    "/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj",
+        "projectUniqueName": "/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj",
         "projectName": "Tests.Azenix.LogReader",
-        "projectPath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj",
+        "projectPath": "/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj",
         "packagesPath": "/Users/lenwebel/.nuget/packages/",
-        "outputPath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader/obj/",
+        "outputPath": "/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -104,8 +104,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/Azenix.LogReader.csproj": {
-                "projectPath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/Azenix.LogReader.csproj"
+              "/Users/lenwebel/work/log-reader/Azenix.LogReader/Azenix.LogReader.csproj": {
+                "projectPath": "/Users/lenwebel/work/log-reader/Azenix.LogReader/Azenix.LogReader.csproj"
               }
             }
           }

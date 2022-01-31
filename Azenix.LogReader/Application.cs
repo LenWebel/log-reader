@@ -26,9 +26,9 @@ namespace Azenix.LogReader
         {
             var log = await _reader.ReadLogAsync("data/data.txt");
             _query.LoadData(log);
-            var uniqueIpAddresses = (await _query.GetUniqueValuesAsync(p => p.Remote)).ToArray();
+            var uniqueIpAddresses = (await _query.GetUniqueValuesAsync(p => p.IpAddress)).ToArray();
             var top3Urls = (await _query.TopAsync(3, p => p.Url));
-            var top3IpAddresses = (await _query.TopAsync(3, p => p.Remote));
+            var top3IpAddresses = (await _query.TopAsync(3, p => p.IpAddress));
            
             
             Console.WriteLine($"Number of Unique IP Addresses: {uniqueIpAddresses.Length}");

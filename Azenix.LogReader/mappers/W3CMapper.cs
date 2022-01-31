@@ -23,7 +23,7 @@ namespace Azenix.LogReader.mappers
             
             return new W3CLog
             {
-                Remote = source[3],
+                IpAddress = source[3],
                 Host = source[4],
                 User = source[5],
                 DateTime = time,

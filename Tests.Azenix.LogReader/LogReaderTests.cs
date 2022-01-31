@@ -45,7 +45,7 @@ namespace Tests.Azenix.LogReader
             var records = await _logReaderService.ReadLogAsync("data/data.txt");
 
             records.ShouldBeAssignableTo<IEnumerable<W3CLog>>();
-            records.First().Remote.ShouldBe("177.71.128.21");
+            records.First().IpAddress.ShouldBe("177.71.128.21");
 
         }
         [Fact] public async Task IsMapped_Url()

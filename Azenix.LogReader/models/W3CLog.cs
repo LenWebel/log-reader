@@ -6,7 +6,7 @@ namespace Azenix.LogReader.models
     public class W3CLog
     {
 
-        public string Remote { get; set; }
+        public string IpAddress { get; set; }
         public string Host { get; set; }
         public string User { get; set; }
         public DateTimeOffset DateTime { get; set; }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L76WD4QiNfHC720eVO/sVlNBQM2eQvKwy9QtIlPi/mtg9gEEtcLNRlnYEsZ2ohrt8Zlsqswcj776eBEMb9j7kg==",
+  "dgSpecHash": "CmHAd9VYtthKSZx0PP5XQcT+5FY8sCF/cixLZYuAAtXR4a6ujaUuRf9rHLD+RqQVAJ61csv/n6CUuuzDEdHM9g==",
   "success": true,
-  "projectFilePath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Azenix.LogReader/Azenix.LogReader.csproj",
+  "projectFilePath": "/Users/lenwebel/work/log-reader/Azenix.LogReader/Azenix.LogReader.csproj",
   "expectedPackageFiles": [
     "/Users/lenwebel/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "/Users/lenwebel/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

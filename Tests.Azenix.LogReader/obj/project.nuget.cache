@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpllok19dvt5Nm4BPi4HmbQcx/SgFEC2HNQ41jOQS7Wb/HzNLNbqd29l9mkP5Vh1UpXzXKiZI5nFdlY7Xm7G3A==",
+  "dgSpecHash": "k/kbBmgHLKftAoL+QI/avan1e36HJl1jeqlYliWCgNMvjXMTLfeeyxWwACG/FKB1bGViiHkXRJN+xBevOXK+Hw==",
   "success": true,
-  "projectFilePath": "/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj",
+  "projectFilePath": "/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader/Tests.Azenix.LogReader.csproj",
   "expectedPackageFiles": [
     "/Users/lenwebel/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/lenwebel/.nuget/packages/diffengine/6.4.9/diffengine.6.4.9.nupkg.sha512",

@@ -28,25 +28,50 @@ namespace Tests.Azenix.LogReader
         {
             var data = new List<W3CLog>
             {
-                new() { Remote = "192.168.0.4" },
-                new() { Remote = "192.168.0.1" },
-                new() { Remote = "192.168.0.5" },
-                new() { Remote = "192.168.0.1" },
-                new() { Remote = "192.168.0.2" },
-                new() { Remote = "192.168.0.1" },
-                new() { Remote = "192.168.0.2" },
-                new() { Remote = "192.168.0.2" },
-                new() { Remote = "192.168.0.3" },
-                new() { Remote = "192.168.0.3" },
+                new() { IpAddress = "192.168.0.4" },
+                new() { IpAddress = "192.168.0.1" },
+                new() { IpAddress = "192.168.0.5" },
+                new() { IpAddress = "192.168.0.1" },
+                new() { IpAddress = "192.168.0.2" },
+                new() { IpAddress = "192.168.0.1" },
+                new() { IpAddress = "192.168.0.2" },
+                new() { IpAddress = "192.168.0.2" },
+                new() { IpAddress = "192.168.0.3" },
+                new() { IpAddress = "192.168.0.3" },
             };
 
             _logQueryService.LoadData(data);
             
-            var top3OfProperty = (await _logQueryService.TopAsync(3, p => p.Remote)).ToArray();
-            
+            var top3OfProperty = (await _logQueryService.TopAsync(3, p => p.IpAddress)).ToArray();
             top3OfProperty[0].Key.ShouldBe("192.168.0.1");
             top3OfProperty[1].Key.ShouldBe("192.168.0.2");
             top3OfProperty[2].Key.ShouldBe("192.168.0.3");
+            
         }
+        
+        [Fact]
+        public async Task FetchUnique_FromData_IpAddress()
+        {
+            var data = new List<W3CLog>
+            {
+                new() { IpAddress = "192.168.0.4" },
+                new() { IpAddress = "192.168.0.1" },
+                new() { IpAddress = "192.168.0.5" },
+                new() { IpAddress = "192.168.0.1" },
+                new() { IpAddress = "192.168.0.2" },
+                new() { IpAddress = "192.168.0.1" },
+                new() { IpAddress = "192.168.0.2" },
+                new() { IpAddress = "192.168.0.2" },
+                new() { IpAddress = "192.168.0.3" },
+                new() { IpAddress = "192.168.0.3" },
+            };
+
+            _logQueryService.LoadData(data);
+            
+            var top3OfProperty = (await _logQueryService.GetUniqueValuesAsync( p => p.IpAddress)).ToArray();
+            top3OfProperty.Length.ShouldBe(5);
+            
+        }
+        
     }
 }

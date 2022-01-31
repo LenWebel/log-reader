@@ -1,4 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42d930c0_002Dbf73_002D47c5_002D8665_002D6b6af9a79752/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Tests.Azenix.LogReader&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/Users/lenwebel/work/mantel/Azenix.LogReader/Tests.Azenix.LogReader" Presentation="&amp;lt;Tests.Azenix.LogReader&amp;gt;" /&gt;
+  &lt;Project Location="/Users/lenwebel/work/log-reader/Tests.Azenix.LogReader" Presentation="&amp;lt;Tests.Azenix.LogReader&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
