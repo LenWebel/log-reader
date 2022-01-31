@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log.reader.that.could.be.an.elk.stack", "log.reader.that.could.be.an.elk.stack\log.reader.that.could.be.an.elk.stack.csproj", "{FAC153C5-C6DA-479C-AB86-4F3801F66955}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azenix.LogReader", "Azenix.LogReader\Azenix.LogReader.csproj", "{FAC153C5-C6DA-479C-AB86-4F3801F66955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests.log.reader.could.be.an.elk.stack", "tests.log.reader.could.be.an.elk.stack\tests.log.reader.could.be.an.elk.stack.csproj", "{65D15663-BBED-477F-8BC6-B141256EF18E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Azenix.LogReader", "Tests.Azenix.LogReader\Tests.Azenix.LogReader.csproj", "{65D15663-BBED-477F-8BC6-B141256EF18E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
