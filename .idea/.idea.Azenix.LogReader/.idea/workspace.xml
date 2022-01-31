@@ -4,38 +4,7 @@
     <projectFile>Azenix.LogReader/Azenix.LogReader.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2832c77d-5203-45fa-9033-da49d112d413" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Azenix.LogReader.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Azenix.LogReader.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/Debug/net5.0/Azenix.LogReader.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Azenix.LogReader/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Azenix.LogReader/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/Azenix.LogReader.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/CoverletSourceRootsMapping" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/Tests.Azenix.LogReader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/bin/Debug/net5.0/Tests.Azenix.LogReader.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Debug/net5.0/Tests.Azenix.LogReader.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Tests.Azenix.LogReader.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/Tests.Azenix.LogReader.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Azenix.LogReader/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="2832c77d-5203-45fa-9033-da49d112d413" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.Azenix.LogReader">
@@ -86,6 +56,7 @@
       <updated>1643621682991</updated>
       <workItem from="1643621688028" duration="27000" />
       <workItem from="1643621773102" duration="31000" />
+      <workItem from="1643633307428" duration="453000" />
     </task>
     <servers />
   </component>
@@ -95,6 +66,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
