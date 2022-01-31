@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack.csproj": {}
+  },
+  "projects": {
+    "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack.csproj",
+        "projectName": "log.reader.that.could.be.an.elk.stack",
+        "projectPath": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack.csproj",
+        "packagesPath": "/Users/lenwebel/.nuget/packages/",
+        "outputPath": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lenwebel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.0.3, 3.0.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack.csproj",
+        "projectName": "tests.log.reader.could.be.an.elk.stack",
+        "projectPath": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack.csproj",
+        "packagesPath": "/Users/lenwebel/.nuget/packages/",
+        "outputPath": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lenwebel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack.csproj": {
+                "projectPath": "/Users/lenwebel/work/mantel/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack/log.reader.that.could.be.an.elk.stack.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

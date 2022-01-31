@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log.reader.that.could.be.an.elk.stack", "log.reader.that.could.be.an.elk.stack\log.reader.that.could.be.an.elk.stack.csproj", "{FAC153C5-C6DA-479C-AB86-4F3801F66955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests.log.reader.could.be.an.elk.stack", "tests.log.reader.could.be.an.elk.stack\tests.log.reader.could.be.an.elk.stack.csproj", "{65D15663-BBED-477F-8BC6-B141256EF18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC153C5-C6DA-479C-AB86-4F3801F66955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC153C5-C6DA-479C-AB86-4F3801F66955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC153C5-C6DA-479C-AB86-4F3801F66955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC153C5-C6DA-479C-AB86-4F3801F66955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D15663-BBED-477F-8BC6-B141256EF18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D15663-BBED-477F-8BC6-B141256EF18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D15663-BBED-477F-8BC6-B141256EF18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D15663-BBED-477F-8BC6-B141256EF18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

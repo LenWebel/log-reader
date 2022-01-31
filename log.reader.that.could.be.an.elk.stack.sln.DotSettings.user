@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb90cf37_002D47d9_002D417f_002Dba04_002D389d8672beba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_LogQuery_FetchTop3_ReturnsTop3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::65D15663-BBED-477F-8BC6-B141256EF18E::net5.0::tests.log.reader.could.be.an.elk.stack.LogQueryTests.Test_LogQuery_FetchTop3_ReturnsTop3&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::65D15663-BBED-477F-8BC6-B141256EF18E::net5.0::tests.log.reader.could.be.an.elk.stack.LogReaderTests.Test_LogReader_OpenSource_ReturnAllRecords&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::65D15663-BBED-477F-8BC6-B141256EF18E::net5.0::tests.log.reader.could.be.an.elk.stack.LogReaderTests.Test_LogReader_OnRead_ReturnType_ShouldBeW3CLogArray&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::65D15663-BBED-477F-8BC6-B141256EF18E::net5.0::tests.log.reader.could.be.an.elk.stack.LogReaderTests.Test_LogReader_Remote_IsMapped&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::65D15663-BBED-477F-8BC6-B141256EF18E::net5.0::tests.log.reader.could.be.an.elk.stack.LogReaderTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Project Location="/Users/lenwebel/work/SaleItation/log.reader.that.could.be.an.elk.stack/tests.log.reader.could.be.an.elk.stack" Presentation="&amp;lt;tests.log.reader.could.be.an.elk.stack&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
